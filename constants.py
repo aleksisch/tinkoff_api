@@ -1,0 +1,6 @@
+TOKEN = "TOKEN"
+MAX_PRICE_USD = 60
+USD_TO_RUB = 70
+PARSED_BONDS_FILE = "parsed_bonds.txt"
+DEBUG = False
+MIN_RATIO = 0.05

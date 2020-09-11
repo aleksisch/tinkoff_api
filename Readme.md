@@ -1,0 +1,1 @@
+This bot find most profitable company, compare current price and yesterday close price. Then create and update your orders to top (or bottom) of other order in orderbook.
